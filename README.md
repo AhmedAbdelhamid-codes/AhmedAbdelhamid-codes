@@ -1,5 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/32889684/ReadMe.md)
-
 # 💫 About Me:
 Software Engineering student and Frontend Developer focused on building responsive web applications using Angular, TypeScript, JavaScript, HTML, CSS, and Bootstrap. Experienced in developing frontend projects, integrating REST APIs, and using Git and GitHub. Currently strengthening software engineering fundamentals including OOP, data structures, algorithms, and problem solving. 
 
